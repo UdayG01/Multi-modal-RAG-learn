@@ -1,1 +1,1 @@
-# looks.ai
+# Multi-modal RAG
